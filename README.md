@@ -12,12 +12,11 @@ This project aims to develop a machine learning pipeline for predicting equipmen
 - Pandas
 - NumPy
 - Scikit-learn
+- (planned)
 - XGBoost
 - FastAPI
 - Docker
 - MLflow
-
-## Problem
 
 ## Dataset
 
