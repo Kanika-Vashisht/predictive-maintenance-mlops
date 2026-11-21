@@ -17,6 +17,18 @@ This project aims to develop a machine learning pipeline for predicting equipmen
 - Docker
 - MLflow
 
-## Project Status
+## Problem
 
-Initial development.
+## Dataset
+
+## Approach
+
+## Results
+
+## Architecture
+
+## How to run
+
+## Design decisions
+
+## Limitations
