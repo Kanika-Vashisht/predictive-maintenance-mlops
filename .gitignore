@@ -1,0 +1,31 @@
+# Virtual environment
+.venv/
+
+#data files
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ruff
+.ruff_cache/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
